@@ -1240,10 +1240,7 @@ header .menu-btn{
    margin: 10px 0px 30px;
    color: var(--primery-color-light);
  }
-@media (max-width: 1000px) {
-  .portfolio h2{margin-top:3rem;}
- .portfolio{   padding: 30px 5%;}
-}
+
  .portfolio  h1{
    text-align: center;
    position: relative;
@@ -1809,5 +1806,11 @@ header .menu-btn{
  
 
 }
+
+@media (max-width: 1000px) {
+  .portfolio .main{margin-top:5rem;padding-to:3rem;}
+ .portfolio{padding: 30px 3%;}
+}
+
 
 
