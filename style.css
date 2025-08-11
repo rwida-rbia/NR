@@ -1808,9 +1808,10 @@ header .menu-btn{
 }
 
 @media (max-width: 1000px) {
-  .portfolio .main{margin-top:5rem;padding-to:3rem;}
+  .portfolio .main{margin-top:5rem;padding-top:10rem;}
  .portfolio{padding: 30px 3%;}
 }
+
 
 
 
